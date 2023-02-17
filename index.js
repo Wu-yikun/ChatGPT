@@ -38,7 +38,7 @@ const LIMIT_COUNT_RESPONSE =
   'VG4Da7eC09_44p8iG0ChFWp_KIfIC1sF9K3gJz49yajrc30qWhqPYXMzcakSK-qC';
 
 const configuration = new Configuration({
-  apiKey: '##your api key##',
+  apiKey: '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',
 });
 
 const openai = new OpenAIApi(configuration);
